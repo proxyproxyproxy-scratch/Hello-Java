@@ -1,1 +1,5 @@
-System.out.print("構成プロファイルを構築中...");
+int x;
+
+x=5;
+
+System.out.print(x);
